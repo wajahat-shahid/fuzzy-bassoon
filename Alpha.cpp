@@ -9,12 +9,18 @@ void IA()
 	cout<<endl;
 }
 
-
-
-void Lub()
+void DE()
 {
 	for (int i=0;i<5;i++)
 		cout<<"Dirilis Ertugrul have been the most successfull cinematic work ever in the history."<<endl;
+	cout<<endl;
+}
+
+
+void QK()
+{
+	for (int i=0;i<5;i++)
+		cout<<"Death of Dr. Abdul Qadir Khan is one of the mever filling gap in history of Pakistan."<<endl;
 	cout<<endl;
 }
 
@@ -37,4 +43,7 @@ int main ()
 	cout<<"Bhai Nahana Parey gaa";
 	else
 	cout<<"Khaire hi hia Cheetey";
+
+        cout<<endl; 
+        QK();
 }
