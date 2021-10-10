@@ -9,6 +9,8 @@ void IA()
 	cout<<endl;
 }
 
+
+
 void Lub()
 {
 	for (int i=0;i<5;i++)
@@ -25,12 +27,12 @@ int main ()
 	cout<<endl<<endl;
 	//Fahad Saab ki repository hai
 	
+	// Looping for 5 times
 	for (int i=0;i<5;i++)
 		cout<<"Ben Doctor."<<endl;	
 
 	bool flag;
 	flag= true;
-	
 	if(flag)
 	cout<<"Bhai Nahana Parey gaa";
 	else
