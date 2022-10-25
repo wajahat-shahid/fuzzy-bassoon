@@ -24,6 +24,15 @@ void QK()
 	cout<<endl;
 }
 
+void bathTracker(){
+	bool flag;
+	flag= true;
+	if(flag)
+	cout<<"Bhai Nahana Parey gaa";
+	else
+	cout<<"Khaire hi hia Cheetey";
+}
+
 int main ()
 {
 	IA();
@@ -37,12 +46,7 @@ int main ()
 	for (int i=0;i<5;i++)
 		cout<<"Ben Doctor."<<endl;	
 
-	bool flag;
-	flag= true;
-	if(flag)
-	cout<<"Bhai Nahana Parey gaa";
-	else
-	cout<<"Khaire hi hia Cheetey";
+	bathTracker();
 
         cout<<endl; 
         QK();
